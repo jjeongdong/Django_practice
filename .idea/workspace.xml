@@ -5,53 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf97ada5-8ed8-447d-b5f3-380c3cb1a501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/migrations/0002_question_author.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/migrations/0003_answer_author.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/migrations/0004_answer_modify_date_question_modify_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/templatetags/pybo_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pybo/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/form_errors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pybo/answer_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pybo/question_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pybo/question_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pybo/question_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybo/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +21,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Jl99DFO61xmUF4v9IAkHu61ZBC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
